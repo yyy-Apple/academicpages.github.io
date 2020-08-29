@@ -11,9 +11,9 @@ title                    : "Weizhe Yuan"
 title_separator          : "-"
 name                     : &name "Weizhe Yuan"
 description              : &description "Master of Computational Data Science at LTI, CMU"
-url                      : https://weizhey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yyy-Apple.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weizhey.github.io"
+repository               : "yyy-Apple.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weizhey"
+  github           : "yyy-Apple"
   google_plus      :
   keybase          :
   instagram        :
