@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Currently, I'm a master student in [Carnegie Mellon University](https://www.cmu.edu/) majoring in Computational Data Science. My academic advisor is [Eric Nyberg](https://www.lti.cs.cmu.edu/people/15337/eric-nyberg).
-- I'm interested in Machine Learning theories as well as their broad applications such as Natural Language Processing.
+- I'm interested in Machine Learning theories as well as their broad applications, especially Natural Language Processing.
 - I received my Bachelor's degree from [Wuhan University](https://en.whu.edu.cn/) in 2019 (majoring in Civil Engineering, ranking 1st, also minoring in Computer Science)
 
 
@@ -20,6 +20,7 @@ Education Background
 - Sep. 2019 - May. 2021  
 M.S. in Computational Data Science, School of Computer Science<br>
 Analytics Concentration<br>
+[Projects](/projects/)<br>
 Advisor: Prof. [Eric Nyberg](https://www.lti.cs.cmu.edu/people/15337/eric-nyberg)
 
 <img src="images/cu.png" alt="Test Image" style="width:100px;display:inline">
@@ -41,7 +42,7 @@ Bachelor Thesis, Advisor: Prof. [Weilie Zou](http://enciv.whu.edu.cn/peopleView.
 Team Member, Undergraduate Scientific Research Project, Advisor: Prof. [Xuwen An](http://enciv.whu.edu.cn/peopleView.asp?id=200)
 - Feb. 2017 - Jun. 2019  
 B.E. in Computer Science (Second degree) , Computer School<br>
-1. Financial Risk Analysis Using Machine Learning<br>
+1. Financial Risk Analysis Using Machine Learning Techniques<br>
 Bachelor Thesis, Advisor: Prof. [Ming Zhong](http://cs.whu.edu.cn/teacherinfo.aspx?id=198)
 2. Development of Course Scheduling App<br>
 Team Member, Undergraduate Scientific Research Project, Advisor: Prof. [Shuguang Zhang](http://cs.whu.edu.cn/teacherinfo.aspx?id=317)
