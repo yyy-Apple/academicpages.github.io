@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Weizhe Yuan"
-  avatar           : "ID_photo.jpg"
+  avatar           : "life_photo.jpeg"
   bio              : "Master of Computational Data Science at LTI, CMU"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "weizhey@andrew.cmu.edu"
   researchgate     : #"https://www.researchgate.net/profile/Weizhe_Yuan"
