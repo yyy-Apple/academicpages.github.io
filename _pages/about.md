@@ -36,7 +36,7 @@ Advisor: Prof. [Nakul Verma](http://www.cs.columbia.edu/~verma/)
 **Wuhan University (Wuhan, China)**             
 - Sep. 2015 - Jun. 2019  
 B.E. in Civil Engineering (First degree) , Civil Engineering School  
-GPA: 3.87/4.0 &emsp; Rank: **1**/168<br>  
+GPA: 3.87/4.0 &emsp; Rank: 1/168<br>  
     - Finite Element Analysis of Multi-layer Reinforced Embankment Slope on Soft Soil Foundation<br>
 Bachelor Thesis, Advisor: Prof. [Weilie Zou](http://enciv.whu.edu.cn/peopleView.asp?id=27)
     - Analysis of Heat Insulation and Service Life of FHP-Vc Thermal Insulation Material<br>
