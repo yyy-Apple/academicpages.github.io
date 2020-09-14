@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/
+permalink: /cv/
 author_profile: true
-redirect_from:
-  - /cv
 ---
 
-<a href="yyy-apple.github.io/files/cv.pdf" target="_blank">resume</a>
+<a href="yyy-apple.github.io/cv/cv.pdf" target="_blank">resume</a>
