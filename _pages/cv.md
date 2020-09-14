@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<a href="yyy-Apple.github.io/files/cv.pdf" target="_blank">resume</a>
+<a href="https://yyy-apple.github.io/files/cv.pdf" target="_blank">resume</a>
 
