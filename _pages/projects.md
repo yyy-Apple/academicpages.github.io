@@ -4,26 +4,26 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Will keep Updating : )
+Will keep updating : )
 ## Auto-review for Research Papers
 <img width="800" height="322" src="/images/ar.jpg"/><br>
 (Still under going...)<br>
 Here is a preliminary [demo](http://lor.lti.cs.cmu.edu:9999/)
 1. Collected a dataset consists of ICLR papers and NIPS papers together with their aligned reviews from [OpenReview](https://openreview.net) and [NIPS Proceedings](http://papers.nips.cc).
-2. Defined a typology consists of seven aspects (*Motivation*, *Originality*, *Soundness*, *Substance*, *Replicability*, *Meaningful Comparison*, *Clarity*) following [ACL review guidance](https://acl2018.org/downloads/acl_2018_review_form.html) 
+2. Defined a typology consists of seven aspects (*Motivation*, *Originality*, *Soundness*, *Substance*, *Replicability*, *Meaningful Comparison*, *Clarity*) following [ACL review guidance](https://acl2018.org/downloads/acl_2018_review_form.html). 
 3. Developed an online annotation platform for review aspect annotation using [Doccano](https://github.com/doccano/doccano).
 4. Used partial annotated data to train a sequence labeling model to annotate the whole dataest.
 5. Adopted an extract-then-generate paradigm and developed three unsupervised extraction strategies: section-based extration, [Cross Entropy Method](https://www.springer.com/gp/book/9780387212401) extraction, hybrid extraction.
-6. Investigated two generation paradigm: vanilla sequence to sequence, generate tokens and their aspect jointly.
+6. Investigated two generation paradigm: vanilla sequence to sequence, generate tokens and predict their aspects jointly.
 7. Evaluated two generation paradigm using multiple metrics including semantic equivalence, linguistical diversity(unique n-gram ratio, n-gram distribution), aspect diversity.
 8. Analyzed the aspect-enhanced model by tracing back to the place the model attends when generating that aspect.
 
 ## Other course Projects
 ### Neural Networks for NLP
 Course Number: 11747 &emsp; Instructor: [Graham Neubig](http://www.phontron.com/)<br>
-1. Implemented a text classifier using Convolutional Neural Network
+1. Implemented a text classifier using Convolutional Neural Network.
 2. Re-implemented the state of the art abstractive summarization system on CNN/DM and achieved 44.23 ROUGE-1 score. 
-3. Developed a novel aspect-summarization model using reinforcement learning with knowledge graph enhanced reward
+3. Developed a novel aspect-summarization model using reinforcement learning with knowledge graph enhanced reward.
 
 ### Algorighms for NLP
 Course Number: 11711 &emsp; Instructor: [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/)<br>
@@ -49,4 +49,4 @@ memory and optimized a small matrix transpose function using blocking.
 throughput and utilization. 
 3. Developed a Linux shell program that supports job control and I/O redirection. 
 4. Designed a proxy server which can deal with multiple concurrent connections and
-cache recently accessed web content. Will Keep Updating, view the projects
+cache recently accessed web content.
