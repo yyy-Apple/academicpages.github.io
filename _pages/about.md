@@ -50,7 +50,7 @@ Team Member, Undergraduate Scientific Research Project, Advisor: Prof. [Shuguang
 
 HONORS & AWARDS
 ======
-- Jun. 2019 &emsp; Outstanding graduate
+- Jun. 2019 &emsp; Outstanding Graduate
 - Jan. 2018, Dec. 2016 &emsp; Title of Merit Student
 - Nov. 2017, Nov. 2016 &emsp; National Scholarship, Top 1%
 
