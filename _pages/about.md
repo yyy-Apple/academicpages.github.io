@@ -19,7 +19,7 @@ Education Background
 **Carnegie Mellon University (Pittsburgh, USA)**
 - Sep. 2019 - May. 2021  
 M.S. in Computational Data Science, School of Computer Science<br>
-    - Capstone Project: Auto-review for Research Papers<br>
+    - [Capstone Project: Auto-review for Research Papers](/projects/)<br>
 Advisors: [Shruti Palaskar](https://shrutijpalaskar.github.io/), Dr. [Pengfei Liu](http://pfliu.com/), Prof. [Alan Black](http://www.cs.cmu.edu/~awb/)<br>
     - [Project List](/projects/)<br>
 
@@ -50,7 +50,7 @@ Team Member, Undergraduate Scientific Research Project, Advisor: Prof. [Shuguang
 
 HONORS & AWARDS
 ======
-- Jun. 2019 &emsp; Outstanding Graduate
+- Jun. 2019 &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Outstanding Graduate
 - Jan. 2018, Dec. 2016 &emsp; Title of Merit Student
 - Nov. 2017, Nov. 2016 &emsp; National Scholarship, Top 1%
 
