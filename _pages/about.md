@@ -19,8 +19,8 @@ Education Background
 **Carnegie Mellon University (Pittsburgh, USA)**
 - Sep. 2019 - May. 2021  
 M.S. in Computational Data Science, School of Computer Science<br>
-    - [Capstone Project: Auto-review for Research Papers](/projects/)<br>
-Advisors: [Shruti Palaskar](https://shrutijpalaskar.github.io/), Dr. [Pengfei Liu](http://pfliu.com/), Prof. [Alan Black](http://www.cs.cmu.edu/~awb/)<br>
+    - [Capstone Project: Can We Automate Scientific Reviewing?](/projects/)<br>
+Advisors: Dr. [Pengfei Liu](http://pfliu.com/), Prof. [Graham Neubig](http://www.phontron.com/)<br>
     - [Project List](/projects/)<br>
 
 

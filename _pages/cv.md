@@ -6,5 +6,5 @@ author_profile: true
 
 ---
 
-<a href="https://yyy-apple.github.io/files/cv.pdf" target="_blank">resume/cv</a>
+<a href="https://yyy-apple.github.io/files/cv_new.pdf" target="_blank">resume/cv</a>
 

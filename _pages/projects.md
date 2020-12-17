@@ -5,20 +5,26 @@ permalink: /projects/
 author_profile: true
 ---
 Will keep updating : )
-## Auto-review for Research Papers
-<img width="800" height="322" src="/images/ar.jpg"/><br>
-(Still under going...)<br>
-Here is a preliminary [demo](http://lor.lti.cs.cmu.edu:9999/)
-1. Collected a dataset consists of ICLR papers and NIPS papers together with their aligned reviews from [OpenReview](https://openreview.net) and [NIPS Proceedings](http://papers.nips.cc).
-2. Defined a typology consists of seven aspects (*Motivation*, *Originality*, *Soundness*, *Substance*, *Replicability*, *Meaningful Comparison*, *Clarity*) following [ACL review guidance](https://acl2018.org/downloads/acl_2018_review_form.html). 
-3. Developed an online annotation platform for review aspect annotation using [Doccano](https://github.com/doccano/doccano).
-4. Used partial annotated data to train a sequence labeling model to annotate the whole dataest.
-5. Adopted an extract-then-generate paradigm and developed three unsupervised extraction strategies: section-based extration, [Cross Entropy Method](https://www.springer.com/gp/book/9780387212401) extraction, hybrid extraction.
-6. Investigated two generation paradigm: vanilla sequence to sequence, generate tokens and predict their aspects jointly.
-7. Evaluated two generation paradigm using multiple metrics including semantic equivalence, linguistical diversity(unique n-gram ratio, n-gram distribution), aspect diversity.
-8. Analyzed the aspect-enhanced model by tracing back to the place the model attends when generating that aspect.
+## Can We Automate Scientific Reviewing?
+<img src="/images/bot.png" width="100px" style="float: left">
+<br>
+[Github](https://github.com/neulab/ReviewAdvisor)<br>
+[Arxiv](xxx)<br>
+[Demo](http://review.nlpedia.ai/)
+
+
+**Dataset**: (1) Collected a dataset consisting of ICLR papers and NIPS papers together with their aligned reviews. (2) Defined an aspect typology that contains eight aspects for review structuralization. (3) Set up an interactive online annotation platform for crowd workers to annotate aspect information in reviews. (4) Used partial annotated reviews to train a sequence labeling model and annotated the whole dataset.<br>
+**Evaluation**: (1) Summarized five most frequently mentioned desiderata for a good review. (2) Took the first step towards review evaluation by defining seven quantifiable metrics that can measure how well a review realizes those desiderata.<br>
+**Model**: (1) Decomposed review generation into extractive and abstractive stages. (2) Investigated three different unsupervised summarization strategies in the extractive stage and two paradigms in the abstractive stage. (3) Extensively evaluated generated reviews from six systems as well as reference reviews and interpreted their relative merits based on our fine-grained evaluation metrics.<br>
+**Fairness**: Proposed two ways to quantify bias in reviews, one measures absolute bias in a single system, the other measures relative bias between two systems.<br>
+
 
 ## Other course Projects
+### Deep Reinforcement Learning and Control
+Course Number: 10703 &emsp; Instructor: [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)<br>
+1. Implemented Twin Delayed Deep Deterministic Policy Gradients (TD3) and used Model-Based Policy Optimization with probabilistic ensembles to help faster the learning process where interacting with the environment is expensive.
+2. (1) Investigated four exploration methods for TD3 in a sparse-reward situation, which are action noise, time-correlated action noise, parameter space noise, random network distillation. (2) Analyzed their relative advantages and disadvantages.
+
 ### Neural Networks for NLP
 Course Number: 11747 &emsp; Instructor: [Graham Neubig](http://www.phontron.com/)<br>
 1. Implemented a text classifier using Convolutional Neural Network.
