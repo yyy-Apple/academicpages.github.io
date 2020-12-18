@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- Currently, I'm a master student in [Carnegie Mellon University](https://www.cmu.edu/) majoring in Computational Data Science. My academic advisor is [Eric Nyberg](https://www.lti.cs.cmu.edu/people/15337/eric-nyberg).
+- Currently, I'm a master student at [Carnegie Mellon University](https://www.cmu.edu/) majoring in Computational Data Science. My academic advisor is [Eric Nyberg](https://www.lti.cs.cmu.edu/people/15337/eric-nyberg).
 - I'm interested in Machine Learning theories (optimization, learning theory) as well as their broad applications (especially Natural Language Processing).
-- I received my Bachelor's degree from [Wuhan University](https://en.whu.edu.cn/) in 2019 (majoring in Civil Engineering, ranking **1**st, also minoring in Computer Science)
+- I received my Bachelor's degree from [Wuhan University](https://en.whu.edu.cn/) in 2019 (majoring in Civil Engineering, ranking **1**st, also double majored in Computer Science)
 
 
 Education Background
