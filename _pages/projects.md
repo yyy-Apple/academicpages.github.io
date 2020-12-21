@@ -9,7 +9,7 @@ Will keep updating : )
 <img src="/images/bot.png" width="100px" style="float: left">
 <br>
 [Github](https://github.com/neulab/ReviewAdvisor)<br>
-[Arxiv](xxx)<br>
+<a href="https://yyy-apple.github.io/files/ReviewAdvisor.pdf" target="_blank">Paper</a><br>
 [Demo](http://review.nlpedia.ai/)
 
 
